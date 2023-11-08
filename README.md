@@ -11,7 +11,4 @@ uthread
 * 通过`schedule_finished` 判断调度器中的协程是否全部运行完毕
 * 每个协程最多拥有128Kb的栈，增大栈空间需要修改源码的宏`DEFAULT_STACK_SIZE `，并重新编译
 
-更详细的介绍，请查看我的中文博客 [人既无名的专栏](http://blog.csdn.net/qq910894904/article/details/41911175). 
-
-
-分支冲突：哈哈哈哈change
+解决冲突simple
